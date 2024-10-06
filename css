@@ -1,7 +1,11 @@
-/* Body and Layout */
+/* Main styles for Abraham Cole's website */
+
+/* General styles */
 body {
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-  font-family: Arial, sans-serif;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa; /* Light blue background */
 }
+
